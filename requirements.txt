@@ -1,0 +1,5 @@
+required packages 
+
+django 4.1.5 
+djangorestframework
+django-cors-headers 3.7.0
